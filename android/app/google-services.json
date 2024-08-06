@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "398975033410",
+    "firebase_url": "https://clothes-9af86-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "clothes-9af86",
+    "storage_bucket": "clothes-9af86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398975033410:android:c4a847a9bbf529cacf0ddb",
+        "android_client_info": {
+          "package_name": "com.example.clothes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXgNE9bHZwiRVN6NEIPgtq-C_AI17Jcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
